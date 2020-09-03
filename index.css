@@ -1,0 +1,121 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+.tnav{
+    display: inline-block;
+    margin-left:30%;
+    margin-top:1%;
+}
+.tnav a{
+    margin-right:20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    text-decoration:none;
+    color: white;
+    height: 40px;
+    font-size:1.4rem;
+}
+.h-pic{
+    width:50%;
+    display: inline-block;
+    margin-left:1%;
+    margin-right:0%;
+    padding-left: 2.5%;
+    margin-top:11%;
+}
+.intro-text{
+    width:40%;
+    display: inline-block;
+    margin-bottom:11%;
+    font-size:2.5rem;
+    text-align:center;
+}
+.header-pic{
+    display: inline-block;
+    margin-top: 8px;
+    margin-left:10%;
+    border:1px solid black;
+    border-radius:250px;
+    width:50%;
+}
+.intro{
+    width:100%;
+    margin-top:1%;
+}
+.intro-text h1{
+    font-family: 'Chelsea Market', cursive;
+}
+.intro-text p{
+    font-size:1.6rem;
+}
+.Sec2{
+    background-color:#DDB9A3;
+    text-align:center;
+    color:white;
+}
+
+.top-section{
+    text-align:center;
+}
+.fire{
+    text-align:center;
+}
+.footer-pic{
+    width: 100%;     
+    height: 350px;   
+    object-fit: cover;   
+    object-position: top; 
+}
+.fire-cont{
+    width: 550px;
+    margin: 0 auto;
+}
+.fire-pic{
+    margin:0 auto;
+    width:400px;
+    margin-right:14px;
+}
+.topimg{
+    width:300px;
+    margin:0 auto;
+}
+.top-section .fire-cont .topimg{
+    width:300px;
+    margin:0 auto;
+}
+footer{
+    background-color:#F9E7DC;
+}
+.bnav{
+    display: inline-block;
+    /* margin-left:35%; */
+    margin-top:2%;
+    margin-bottom:2%;
+}
+.bnav a{
+    margin-right:20px;
+    padding: 10px;
+    color: white;
+    border-radius: 20px;
+    border: 1px solid black;
+    text-decoration:none;
+}
+.bnav a:first-child{
+    background-color: #FF764E;
+}
+.bnav a:nth-child(2){
+    background-color: #5ED3EB;
+}
+.bnav a:last-child{
+    background-color: #FFCD69;
+}
+.tnav a:first-child{
+    background-color: #FF764E;
+}
+.tnav a:nth-child(2){
+    background-color: #5ED3EB;
+}
+.tnav a:last-child{
+    background-color: #FFCD69;
+}
